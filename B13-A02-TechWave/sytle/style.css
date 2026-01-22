@@ -42,5 +42,30 @@
 #cards-items{
     display: flex;
 }
+.img-host{
+    width: 200px;
+    height: 200px;
+    gap: 20;
+}
+.alex{
+    display: flex;
+    justify-content: center;
+    gap: 24;
+    padding: 40px;
+}
+footer{
+    background: url(../assets/footer-bg.png);
+    width: 1600px;
+    height: 420px;
+    text-align: center;
+    display: flex;
+    
+}
+.logo{
+    display: flex;
+    text-align: center;
+    margin: 0 auto;
+
+}
 
     
