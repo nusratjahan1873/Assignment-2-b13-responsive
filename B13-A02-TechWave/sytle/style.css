@@ -67,5 +67,9 @@ footer{
     margin: 0 auto;
 
 }
+.grid{
+    background-color: rgb(13, 123, 182);
+    display: flex;
+}
 
     
